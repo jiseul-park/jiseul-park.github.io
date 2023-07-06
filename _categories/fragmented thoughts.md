@@ -1,5 +1,5 @@
 ---
 layout: category
-title: "fragmented thoughts"
-category: fragmented thoughts
+title: "fragmented-thoughts"
+category: fragmented-thoughts
 ---
