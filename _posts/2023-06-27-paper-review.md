@@ -32,7 +32,7 @@ A: 이론적으로 excitation laser wavelength는 intensity와만 관련이 있�
 		- Second, it **obviates** the need for vacuum, polishing, and carbon-coating for analysis, and is therefore convenient for analyzing ﬁne precious samples.
 	- igneous: 화성의
 	- doublet, singlet: Raman band의 형상을 표현할 때 활용
- - ca: about의 줄임말, 이탤릭체, 자주 사용하는 표현인지는 모르겠음
+	- ca: about의 줄임말, 이탤릭체, 자주 사용하는 표현인지는 모르겠음
 		- However, the precisions of Mg# determined by their equations are *ca* ±3.
 	- a precision of: 비슷하게 given number 도 사용할 수 있을지도
 		- For petrological and geochemical arguments of mantle and igneous ultramaﬁc/maﬁc rocks, **a precision of** ±1 in Mg# units is required.
