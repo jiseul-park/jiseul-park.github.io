@@ -8,7 +8,7 @@ categories: paper-review
 ## Introduction
 - Micro-Raman spectroscopy?
   - intensity and wavenumber is related to the structure, mass of constituent, atoms, interatomic forces
-	- interatomic forces depend on small changes in bond length and angles
+  - interatomic forces depend on small changes in bond length and angles
   - the structure and composition of mineral can be investigated by using micro-Raman
 - Mineral of interest: "Olivine"
 	- orthorhombic Pbnm structure
