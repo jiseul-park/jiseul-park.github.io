@@ -7,14 +7,14 @@ categories: paper-review
 
 ## Introduction
 - Micro-Raman spectroscopy?
- - intensity and wavenumber is related to the structure, mass of constituent, atoms, interatomic forces
- - interatomic forces depend on small changes in bond length and angles
- - the structure and composition of mineral can be investigated by using micro-Raman
+	- intensity and wavenumber is related to the structure, mass of constituent, atoms, interatomic forces
+	- interatomic forces depend on small changes in bond length and angles
+	- the structure and composition of mineral can be investigated by using micro-Raman
 - Mineral of interest: "Olivine"
- - orthorhombic Pbnm structure
- - complete solid solution between the Fe and Mg end members
- - Mg# = Mg molar ratio w.r.t Mg+Fe
- - terrestrial olivines contains Mg# 60-95
+	- orthorhombic Pbnm structure
+	- complete solid solution between the Fe and Mg end members
+	- Mg# = Mg molar ratio w.r.t Mg+Fe
+	- terrestrial olivines contains Mg# 60-95
 
 
 
@@ -27,17 +27,17 @@ A: 이론적으로 excitation laser wavelength는 intensity와만 관련이 있�
 
 ## Writing
 - words
- - chiefly: 주로, 무엇보다 
- - obviates: ~을 불필요하게 하다
-  - Second, it **obviates** the need for vacuum, polishing, and carbon-coating for analysis, and is therefore convenient for analyzing ﬁne precious samples.
- - igneous: 화성의
- - doublet, singlet: Raman band의 형상을 표현할 때 활용
+	- chiefly: 주로, 무엇보다 
+	- obviates: ~을 불필요하게 하다
+		- Second, it **obviates** the need for vacuum, polishing, and carbon-coating for analysis, and is therefore convenient for analyzing ﬁne precious samples.
+	- igneous: 화성의
+	- doublet, singlet: Raman band의 형상을 표현할 때 활용
  - ca: about의 줄임말, 이탤릭체, 자주 사용하는 표현인지는 모르겠음
-  - However, the precisions of Mg# determined by their equations are *ca* ±3.
- - a precision of: 비슷하게 given number 도 사용할 수 있을지도
-  - For petrological and geochemical arguments of mantle and igneous ultramaﬁc/maﬁc rocks, **a precision of** ±1 in Mg# units is required.
-  - we recommend the use of Eqn (1) for peak 2 when Mg# >60, which enables us to determine Mg# of **given number** ±1.
-- in-situ: 'real-time' 대신 비슷하게 쓸 수 있을지도
+		- However, the precisions of Mg# determined by their equations are *ca* ±3.
+	- a precision of: 비슷하게 given number 도 사용할 수 있을지도
+		- For petrological and geochemical arguments of mantle and igneous ultramaﬁc/maﬁc rocks, **a precision of** ±1 in Mg# units is required.
+		- we recommend the use of Eqn (1) for peak 2 when Mg# >60, which enables us to determine Mg# of **given number** ±1.
+	- in-situ: 'real-time' 대신 비슷하게 쓸 수 있을지도
 
 - sentences
 >The wavenumber of peak 5 was most sensitive to Mg#, followed by peaks 2, 1, and 4;
