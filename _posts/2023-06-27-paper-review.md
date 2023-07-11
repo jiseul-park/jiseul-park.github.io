@@ -36,7 +36,9 @@ categories: paper-review
 	- a precision of ±1 = 비슷하게 given number 도 사용하능한건가?
 	- in-situ: 'real-time' 대신 비슷하게 쓸 수 있을지도
 >	Second, it obviates the need for vacuum, polishing, and carbon-coating for analysis, and is therefore convenient for analyzing ﬁne precious samples.
+
 >	For petrological and geochemical arguments of mantle and igneous ultramaﬁc/maﬁc rocks, a precision of ±1 in Mg# units is required.
+
 >	we recommend the use of Eqn (1) for peak 2 when Mg# >60, which enables us to determine Mg# of given number ±1.
 
 - sentences
