@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi! Welcome to my blog :-D"
+title                    : "Hello! Welcome to my blog :-D"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jiseul Park"
-description              : "An amazing website."
+description              : "happy happy research ha ha"
 url                      : "https://jiseul-park.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,9 +107,9 @@ author:
   location         : "Seoul National Univ."
   email            : "pjs2sl@snu.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pjs2sl@snu.ac.kr"
+    # - label: "Email"
+      # icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:pjs2sl@snu.ac.kr"
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
