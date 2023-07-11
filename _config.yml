@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiseul Park"
+title                    : "Hi! Welcome to my blog :-D"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jiseul Park"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiseul Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/avatar.jpg
   bio              : "Postdoctoral researcher"
   location         : "Seoul National Univ."
   email            : "pjs2sl@snu.ac.kr"
