@@ -19,5 +19,5 @@ categories: paper-review
 
 ## Some questions to solve
 - Q: excitation laser wavelength와 Raman shift는 관련이 있는가?
-  A: 이론적으로 excitation laser wavelength는 intensity와만 관련이 있음
+- A: 이론적으로 excitation laser wavelength는 intensity와만 관련이 있음
 
