@@ -43,4 +43,4 @@ categories: paper-review
 
 >The wavenumber of peak 5 was most sensitive to Mg#, followed by peaks 2, 1, and 4;
 
->The more sensitive nature of peak 5 compared to peak 1 and 2 is explained as follows: the systematic peak shifts with Mg# are caused chieﬂy by a decreaseintheSi–Ocovalentinteractionandtheinter-tetrahedral O–O Coulomb repulsion induced by substitution of cations in the octahedral sites, and contribution of the O–O Coulomb repulsion within the SiO 4tetrahedra is insigniﬁcant because the change in intertetrahedral O–O distances is negligibly small. [24,25]
+>The more sensitive nature of peak 5 compared to peak 1 and 2 is explained as follows: the systematic peak shifts with Mg# are caused chieﬂy by a decrease in the Si–O covalent interaction and the inter-tetrahedral O–O Coulomb repulsion induced by substitution of cations in the octahedral sites, and contribution of the O–O Coulomb repulsion within the SiO 4tetrahedra is insigniﬁcant because the change in intertetrahedral O–O distances is negligibly small. [24,25]
