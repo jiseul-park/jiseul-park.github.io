@@ -1,5 +1,5 @@
 ---
-title: "solid solution (고용체)"
+title: "Solid solution (고용체)"
 date: 2023-07-18 02:35:00 +0900
 categories: research
 comments: true
