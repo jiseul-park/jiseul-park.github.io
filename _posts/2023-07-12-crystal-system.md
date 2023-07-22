@@ -18,11 +18,11 @@ comments: true
 
 1. 안녕하세요, 오늘 결정계, 점군, 공간군을 설명드리기로 했는데, 이 어려운 논문을 읽다가 Fe가 포함된 Mc(monocarbonate)와 Al이 포함된 Mc의 공간군이 다르다는데 도대체 공간군이 뭔지 모르겠어서 시작되었습니다.
     
-    [pp_Iron in carbonate containing AFm phases.pdf](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/pp_Iron_in_carbonate_containing_AFm_phases.pdf)
+    [pp_Iron in carbonate containing AFm phases.pdf](2023-07-12-crystal/pp_Iron_in_carbonate_containing_AFm_phases.pdf)
     
     결정계는 XRD 패턴으로 비교적 쉽게 (?) 알아낼 수 있다고 합니다. 물론 아무 정보도 없는 물질의 패턴을 보고 어떤 결정계에 들어가는지 분석하는 방법은 무진장 복잡합니다. (관심있는 분은 아래 피피티 참조) 
     
-    [ppt_Xray-used-to-determine-structure.pdf](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/ppt_Xray-used-to-determine-structure.pdf)
+    [ppt_Xray-used-to-determine-structure.pdf](2023-07-12-crystal/ppt_Xray-used-to-determine-structure.pdf)
     
     공간군을 결정하는 것은 더 어렵구요. EXAFS나 Raman 등등 추가적인 분석 기법이 활용됩니다(만 저도 여기까지 살펴보지는 못했습니다.)
     
@@ -34,7 +34,7 @@ comments: true
 1. (제가 이해한 바에 따라) 이들 개념의 위계부터 설명드릴게요. 우선 **결정계**가 가장 큰 개념입니다. 결정은 평행육면체인 단위 격자가 공간에 수없이 반복되는 거라고 생각하시면 되는데, 이 **단위 격자**(unit cell)의 축 변의 길이가 a, b, c, 축간각도가 ⍺, β, γ인 6가지 lattice parameter입니다. 그리고 각 축에 수직한 두 개의 면들은 A, B, C라고 이름붙여줍니다. 각 모서리의 길이가 짧고, 모서리 사이의 각도가 수직에 가깝도록 선택하면 **primitive unit cell**이라고 해요.
 2. 결정계는 단위 격자의 격자점 위치에 따라 4가지로 나눌 수 있습니다.
     
-    ![Untitled](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/img_P,F,B,C.png)
+    ![Untitled](2023-07-12-crystal/img_P,F,B,C.png)
     
     - 단순 **P**rimitive, 면심 **F**ace-centered, 체심 **I**/Body-centered, 저심 **C**/Base-centered
     - 저심은 다시 A, B, C base-centered로 세가지가 있겠죠!
@@ -43,7 +43,7 @@ comments: true
     - 반사는 거울면(mirror plane)에 대해 반사시키는 거에요. 보통 **m**이라는 기호를 씁니다
     - 회전은 한 축을 기준으로 점들을 회전시키는 거고, 이 회전축은 우리가 n-fold 회전축이라고 합니다. 그림을 보면 더 쉽게 이해될거에요. 보통 **n**이라는 기호를 씁니다
         
-        ![img_n-fold rotational symmetry.png](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/img_n-fold_rotational_symmetry.png)
+        ![img_n-fold rotational symmetry.png](2023-07-12-crystal/img_n-fold_rotational_symmetry.png)
         
     - 반전은 한 점을 기준으로 모든 점을 점대칭 시키는 거고 보통 **i**라는 기호를 씁니다
     - 병진은 그냥 평행이동 이구요
@@ -51,32 +51,22 @@ comments: true
 5. 그럼 다시 일곱개의 결정계의 이름으로 돌아와서 이름과 모양을 매칭해볼게요.
     - cubic은 정육면체니까 쉽죠, 세 축 변의 길이도 같고, 축간각도도 모두 90도라는 걸 쉽게 유추할 수 있습니다.
     - gonal은 angle이라고 생각하면 된대요. 따라서 회전축에 대한 정보를 주는거에요.tetra (=4)gonal은 4-fold 회전축을 가진다는 뜻이고 90도만큼 돌려서 형태를 유지하는건 정사각형이죠. 그러니까 정사각기둥이라고 떠올릴 수 있어요. tri(=3)gonal은 3-fold 회전축을 가진다는 것이고 정삼각형을 떠올릴 수 있는데, 저희가 평행육면체가 되려면 한 면이 사각형이여야겠죠! 그래서 두 정삼각형을 붙인 마름모(rhombohedral) 여섯개가 90도가 아닌 각을 이루고 있다고 떠올리면 됩니다. hexa(=6)gonal은 6-fold 회전축을 가지니까 정육각형을 떠올릴 수 있습니다. 그런데 평행육면체가 되기 위해서 아래처럼 unit lattice를 잡아줍니다.
-    ![[img_hexagonal.png]]
-        
-        ![img_hexagonal.png](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/img_hexagonal.png)
+                ![img_hexagonal.png](2023-07-12-crystal/img_hexagonal.png)
         
     - clinic은 기울어진 경사면을 떠올리면 됩니다. 따라서 직육면체 위아래면을 두손으로 잡고 주욱 밀어서 경사지게 만드는거에요. mono(=1)clinic은 그걸 한번한거고, tri(=3)clinic은 그걸 세번 하는거죠.
     - orthorhombic은 ortho(=90도)로부터 직육면체임을 떠올릴 수 있습니다!
 6. 그런데 이 일곱가지 결정계에서 격자점 외에 면이나, 몸통이나, 아니면 윗면과 아랫면에 원자들을 더 집어넣은 단위 격자를 생각해볼 수 있어요. 다시 말해 네가지 분류 방식과 일곱가지 분류방식을 합치는 거죠. 그러면 단순히 계산해서 28가지의 lattice system이 나올것 같지만 그렇지 않다고 합니다. 우리가 어떤 격자점의 면이나 몸통에 원자를 집어넣고 공간에 무한히 복붙을 하다보면, 처음보다 더 작은 격자시스템이 생기기 때문입니다(아래 그림 참조).
-![[img_example of non-primitive unit cell.png]]
-    
-    ![img_example of non-primitive unit cell.png](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/img_example_of_non-primitive_unit_cell.png)
+
+    ![img_example of non-primitive unit cell.png](2023-07-12-crystal/img_example_of_non-primitive_unit_cell.png)
     
 - primitive lattice로 인정받을 수 없는 경우를 제외하다보면 아래와 같은 14가지의 **bravais lattice system**만 남습니다. 자세한 설명은 이 [블로그](https://blog.naver.com/PostView.nhn?blogId=joon9497&logNo=221448621785)에 잘 설명되어 있어요!
-    
-    
-    ![[img_14 bravais lattice systems.png]]
-    
-    ![img_14 bravais lattice systems.png](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/img_14_bravais_lattice_systems.png)
+    ![img_14 bravais lattice systems.png](2023-07-12-crystal/img_14_bravais_lattice_systems.png)
     
 
 ### 점군과 공간군
 
 1. 이제 쪼오금 더 복잡해집니다. 3차원 결정구조가 같은 대칭성의 종류에 따라서 총 32개의 점군을 가져요. 대칭조작을 했을 때 격자시스템 본연의 대칭성을 깨뜨려서는 안됩니다. 따라서 아래와 같이 32개가 나옵니다.
-    
-    ![[img_32 point group.png]]
-    
-    ![img_32 point group.png](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/img_32_point_group.png)
+    ![img_32 point group.png](2023-07-12-crystal/img_32_point_group.png)
     
 2. 그리고 이 점군들과 14개의 bravais lattice를 짬뽕하면 230개 공간군이 나옵니다. 왜 14x32 = 448개가 아니냐구요? 아까 bravais lattice를 유도했던 것처럼 단순히 두가지를 짬뽕했을 때 대칭성이 깨지거나 primitive unit cell의 조건을 만족하지 못하는 (혹은 다른 공간군과 동일해진다거나..) 경우를 제외하여 그렇다고 합니다. 
 3. 공간군의 이름은 세 부분으로 나뉩니다: 중심, 대칭, 및 격자 계열.
@@ -98,9 +88,7 @@ comments: true
         - e.g., -1 = 1R+i (= 360도 회전 후 점대칭 했을때 원래 모양)
 5. 1, -1을 점군으로 가지는 것은 triclinic이 있습니다. 그리고 점군의 표기 앞에 P를 써주면! 짜잔 드디어 공간군의 표현이 되는거에요 (그림 참조).
     - 1보다는 -1이 대칭성이 높습니다. 왜냐면 1은 360도 회전해야 자기자신이라서, translation(평행이동)했을 때 무한한 결정을 만들 수가 없지만 -1은 평행이동으로 무한한 결정이 만들어지기 때문에 그렇습니다.
-    ![[img_triclinic space group.png]]
-        
-        ![img_triclinic space group.png](%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A8,%20%E1%84%8C%E1%85%A5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB,%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%AB%20c2338a97b4c7413a999d7ad88e233ed1/img_triclinic_space_group.png)
+        ![img_triclinic space group.png](2023-07-12-crystal/img_triclinic_space_group.png)
         
 6. monoclinic의 점군으로 넘어가볼게요. 2, m, 2/m은 뭘 뜻할까요?
     - 2 = 2R입니다. monoclinic은 y축에 대해 2-fold rotation symmetry를 갖습니다.
@@ -141,7 +129,6 @@ VESTA 사용하기
 
 ### 각 개념들의 관계
 
-![[img_relationship between crystal system, bravais lattice, point group, space group.png]]
 
 ### Crystal system (결정계) 요약
 
