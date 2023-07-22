@@ -10,10 +10,6 @@ comments: true
   {% include comments-providers/disqus.html %}
 {% endif %}
 
-
-
-# 결정계, 점군, 공간군
-
 ### 들어가며
 
 1. 안녕하세요, 오늘 결정계, 점군, 공간군을 설명드리기로 했는데, 이 어려운 논문을 읽다가 Fe가 포함된 Mc(monocarbonate)와 Al이 포함된 Mc의 공간군이 다르다는데 도대체 공간군이 뭔지 모르겠어서 시작되었습니다.
