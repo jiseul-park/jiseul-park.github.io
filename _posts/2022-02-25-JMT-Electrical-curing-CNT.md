@@ -1,0 +1,12 @@
+---
+title: "Recent JMT paper published! #Electrical-curing #CNT"
+date: 2022-02-25 10:00:00
+categories: Research paper
+---
+
+*You can find more [here](https://www.sciencedirect.com/science/article/pii/S2238785422002757?via%3Dihub)*
+
+## Title
+The critical incorporation concentration (CIC) of dispersed carbon nanotubes for tailoring multifunctional properties of ultra-high performance concrete (UHPC)
+## Abstract
+This study aims to elucidate the effect of carbon nanotube (CNT) concentrations on the mechanical, electrical, shrinkage, and thermal properties of ultra-high performance concrete (UHPC). The stable dispersion of CNTs was achieved using well-dispersed CNT suspension and confirmed by consistent decrease in electrical resistivity. The autogenous shrinkage was effectively reduced by over 30% by incorporating around 0.5 wt% CNT content. While [thermal conductivity](https://www.sciencedirect.com/topics/materials-science/thermal-conductivity "Learn more about thermal conductivity from ScienceDirect's AI-generated Topic Pages") was gradually increased with increasing CNT dosage, the volumetric heat capacity was minimized, and the thermal [diffusivity](https://www.sciencedirect.com/topics/materials-science/diffusivity "Learn more about diffusivity from ScienceDirect's AI-generated Topic Pages") was maximized at the [percolation](https://www.sciencedirect.com/topics/materials-science/percolation "Learn more about percolation from ScienceDirect's AI-generated Topic Pages") threshold. The addition of CNTs positively affects engineering properties; however, above 0.5 wt% CNT content, [compressive strength](https://www.sciencedirect.com/topics/materials-science/compressive-strength "Learn more about compressive strength from ScienceDirect's AI-generated Topic Pages"), [elastic modulus](https://www.sciencedirect.com/topics/materials-science/elastic-moduli "Learn more about elastic modulus from ScienceDirect's AI-generated Topic Pages"), and thermal diffusivity were deteriorated mainly due to higher porosity from reduced fluidity. From these results, the single value of the critical incorporation concentration of CNTs could be proposed as 0.5 wt% for tailoring the multifunctional properties of CNT/UHPC composites.
