@@ -1,5 +1,5 @@
 ---
-title: "Recent CCR paper published! #electrical-curing #CNT"
+title: "Recent CCR paper published! #microstructure #nanocomposite"
 date: 2020-08-27 10:00:00
 categories: Research paper
 ---
