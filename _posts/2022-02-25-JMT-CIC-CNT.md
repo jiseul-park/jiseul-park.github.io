@@ -1,5 +1,5 @@
 ---
-title: "Recent JMT paper published! #Electrical-curing #CNT"
+title: "Recent JMT paper published! #critical concentration #CNT"
 date: 2022-02-25 10:00:00
 categories: Research paper
 ---
