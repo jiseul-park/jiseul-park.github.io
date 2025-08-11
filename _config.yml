@@ -107,11 +107,12 @@ author:
   location         : "HK PolyU & SNU"
   links:
     - label: "Email (SNU)"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:pjs2sl@snu.ac.kr"
     - label: "Email (HK PolyU)"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:jiseul.park@polyu.edu.hk"
+
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
