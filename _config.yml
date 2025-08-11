@@ -105,7 +105,6 @@ author:
   avatar           : /assets/images/image.jpeg
   bio              : "Postdoctoral researcher"
   location         : "HK PolyU & SNU"
-  email            : "pjs2sl@snu.ac.kr"
   links:
     - label: "Email (SNU)"
       icon: "fas fa-fw fa-envelope-square"
