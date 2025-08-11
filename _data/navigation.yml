@@ -2,8 +2,11 @@
 main:
   - title: "CV"
     url: /assets/CV_Jiseul_Park.pdf
-  - title: "Posts"
-    url: /categories/
+  - title: "Research"
+    url: /research/
+  - title: "Life"
+    url: /life/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
